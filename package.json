@@ -21,14 +21,11 @@
   ],
   "main": "lib/main.js",
   "dependencies": {
-    "async": "2.6.1",
-    "he": "1.1.1",
-    "request": "2.87.0",
+    "async": "3.1.0",
+    "he": "1.2.0",
+    "request": "2.88.0",
     "underscore": "1.9.1"
   },
   "devDependencies": {},
-  "license": "MIT",
-  "engines": {
-    "node": ">=0.6"
-  }
+  "license": "MIT"
 }
